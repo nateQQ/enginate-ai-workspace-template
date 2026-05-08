@@ -1,30 +1,30 @@
 # Product Context - [PROJECT_NAME]
 
-## Sản phẩm / Dịch vụ
+## Product / Service
 
-**Tên:** [tên sản phẩm]
-**Mô tả:** [1-2 câu mô tả rõ là gì]
+**Name:** [product name]
+**Description:** [1-2 sentences describing what it is]
 **Website:** [url]
 
 ## Positioning
 
-**Cho ai:** [target segment]
-**Giải quyết vấn đề gì:** [pain point chính]
-**Khác đối thủ ở điểm nào:** [differentiator]
+**For:** [target segment]
+**Solves:** [core pain point]
+**Different because:** [differentiator]
 
 ## Key messages
 
-- [Message 1 - thông điệp quan trọng nhất]
+- [Message 1 - most important]
 - [Message 2]
 - [Message 3]
 
-## Đối thủ
+## Competitors
 
-| Đối thủ | Điểm mạnh | Điểm yếu |
-|---------|-----------|----------|
-| [Tên] | [Strong] | [Weak] |
-| [Tên] | [Strong] | [Weak] |
+| Competitor | Strengths | Weaknesses |
+|------------|-----------|------------|
+| [Name] | [Strong] | [Weak] |
+| [Name] | [Strong] | [Weak] |
 
-## Không nói về
+## Do not mention
 
-[Chủ đề/so sánh/tuyên bố cần tránh]
+[Topics, comparisons, or claims to avoid]

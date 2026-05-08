@@ -1,6 +1,6 @@
 #!/bin/bash
-# Chạy trước khi Claude nén conversation
-# Dùng để lưu trạng thái quan trọng trước khi context bị rút gọn
+# Runs before Claude compacts the conversation
+# Use this to save important state before context is reduced
 
 LOGFILE="_memory-logs/$(date '+%y%m')-log.md"
 

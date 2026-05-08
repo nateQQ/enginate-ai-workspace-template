@@ -2,24 +2,24 @@
 
 ## Tone
 
-[Mô tả tone: ví dụ "chuyên gia nhưng gần gũi, thực tế, không lý thuyết"]
+[Describe the tone: e.g. "expert but approachable, practical, no fluff"]
 
-## Viết như thế này
+## Write like this
 
-- [Đặc điểm 1: ví dụ "Câu ngắn, rành mạch"]
-- [Đặc điểm 2: ví dụ "Dùng số liệu cụ thể thay vì nói chung chung"]
-- [Đặc điểm 3: ví dụ "First-person, chia sẻ trải nghiệm thật"]
+- [Trait 1: e.g. "Short sentences, direct and clear"]
+- [Trait 2: e.g. "Use specific numbers instead of vague claims"]
+- [Trait 3: e.g. "First-person, share real experiences"]
 
-## Không viết như thế này
+## Never write like this
 
-- [Tránh 1: ví dụ "Buzzword rỗng: synergy, disruptive, paradigm shift"]
-- [Tránh 2: ví dụ "Hứa hẹn quá mức không chứng minh được"]
-- [Tránh 3]
+- [Avoid 1: e.g. "Empty buzzwords: synergy, disruptive, paradigm shift"]
+- [Avoid 2: e.g. "Overpromising without proof"]
+- [Avoid 3]
 
-## Ví dụ câu dùng được
+## Good example
 
-> "[Ví dụ câu đúng tone]"
+> "[Example sentence that fits the tone]"
 
-## Ví dụ câu cần tránh
+## Bad example
 
-> "[Ví dụ câu sai tone]"
+> "[Example sentence that misses the tone]"

@@ -1,39 +1,39 @@
 # SOP: Content Creation
 
-Quy trình chuẩn tạo content - AI follow theo thứ tự này.
+Standard content creation process - AI follows this order.
 
-## Bước 1 - Xác định topic và intent
+## Step 1 - Define topic and intent
 
-- Topic là gì?
-- Audience nào? (đọc `_client-context/audience.md`)
-- Mục tiêu: educate / convert / engage?
+- What is the topic?
+- Which audience? (read `_client-context/audience.md`)
+- Goal: educate / convert / engage?
 - Platform: blog / LinkedIn / newsletter / ...?
 
-## Bước 2 - Research
+## Step 2 - Research
 
-- Tìm 3-5 góc nhìn/nguồn liên quan
-- Note số liệu cụ thể nếu có
-- Xác định angle chưa ai nói
+- Find 3-5 relevant angles or sources
+- Note specific data points if available
+- Identify an angle that hasn't been covered yet
 
-## Bước 3 - Outline
+## Step 3 - Outline
 
-- Hook (1 câu đầu quyết định người đọc có đọc tiếp không)
-- 3-5 điểm chính
-- CTA cuối
+- Hook (the first line determines whether the reader continues)
+- 3-5 main points
+- CTA at the end
 
-## Bước 4 - Viết
+## Step 4 - Write
 
-- Follow brand voice trong `_client-context/brand-voice.md`
-- Câu ngắn, đoạn ngắn
+- Follow brand voice in `_client-context/brand-voice.md`
+- Short sentences, short paragraphs
 - Bold key points
 
-## Bước 5 - Review
+## Step 5 - Review
 
-- Đúng tone chưa?
-- Có số liệu / ví dụ cụ thể chưa?
-- CTA rõ chưa?
+- Correct tone?
+- Specific data or examples included?
+- CTA clear?
 
-## Bước 6 - Output
+## Step 6 - Output
 
-- Lưu vào `Output/YYMMDD-[platform]-[topic-slug].md`
-- Log vào `_memory-logs/`
+- Save to `Output/YYMMDD-[platform]-[topic-slug].md`
+- Log to `_memory-logs/`

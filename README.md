@@ -1,38 +1,44 @@
 # enginate-ai-workspace
 
-Template cấu trúc thư mục cho AI Agentic Workspace - hoạt động với Claude Code.
+A structured folder template for AI Agentic Workspaces - built to work with Claude Code.
 
-Tác giả: [NateCue](https://natecue.com) | Hướng dẫn đầy đủ: [natecue.com/learn/ai/cau-truc-thu-muc-ai-agentic-workspace](https://natecue.com/learn/ai/cau-truc-thu-muc-ai-agentic-workspace)
+Author: [NateCue](https://natecue.com) | Full guide: [natecue.com/learn/ai/cau-truc-thu-muc-ai-agentic-workspace](https://natecue.com/learn/ai/cau-truc-thu-muc-ai-agentic-workspace)
 
-## Cách dùng
+## What is this?
 
-1. Clone hoặc download repo này
-2. Đổi tên folder thành tên project của bạn
-3. Điền thông tin vào `CLAUDE.md` và `_client-context/`
-4. Mở folder với Claude Code: gõ `claude` trong terminal
-5. Bắt đầu làm việc
+A ready-to-use workspace template that gives Claude Code the context it needs to work like a focused team member on your project - not just a chat tool.
 
-## Cấu trúc
+Drop in your client context, brand voice, and SOPs. Claude reads them automatically and stays aligned session after session.
+
+## How to use
+
+1. Clone or download this repo
+2. Rename the folder to your project name
+3. Fill in `CLAUDE.md` and `_client-context/`
+4. Open the folder with Claude Code: run `claude` in terminal
+5. Start working
+
+## Structure
 
 ```
 your-project/
-├── CLAUDE.md                  ← Đọc và điền vào đây trước
-├── CLAUDE.local.md            ← Cài đặt cá nhân (gitignored)
+├── CLAUDE.md                  ← Read and fill this first
+├── CLAUDE.local.md            ← Personal settings (gitignored)
 ├── .gitignore
-├── .mcp.json                  ← Kết nối MCP servers
+├── .mcp.json                  ← MCP server connections
 ├── .claude/
-│   ├── hooks/                 ← Tự động chạy theo sự kiện
+│   ├── hooks/                 ← Auto-run on events
 │   ├── commands/              ← Slash command /ship
-│   ├── agents/                ← Subagent: researcher, code-reviewer
-│   ├── rules/                 ← Quy tắc theo đường dẫn file
+│   ├── agents/                ← Subagents: researcher, code-reviewer
+│   ├── rules/                 ← Path-based rules
 │   ├── settings.json
 │   └── settings.local.json
 ├── _client-context/           ← Audience, brand voice, product
-├── _sop/                      ← Quy trình chuẩn
-├── _memory-logs/              ← Nhật ký session
-└── Output/                    ← Kết quả bàn giao
+├── _sop/                      ← Standard operating procedures
+├── _memory-logs/              ← Session logs
+└── Output/                    ← Deliverables
 ```
 
 ## License
 
-MIT - Dùng thoải mái, ghi nguồn nếu bạn muốn.
+MIT - Free to use. Credit appreciated but not required.

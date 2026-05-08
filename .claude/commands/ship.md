@@ -1,11 +1,11 @@
 # /ship
 
-Chạy toàn bộ quy trình hoàn thiện output:
+Run the full output finalization workflow:
 
-1. Review lại output cuối trong `Output/`
-2. Kiểm tra có đúng format không
-3. Kiểm tra có đúng tone/voice trong `_client-context/brand-voice.md` không
-4. Log session vào `_memory-logs/`
-5. Báo cáo: xong chưa, còn gì cần làm
+1. Review the latest output in `Output/`
+2. Verify correct format
+3. Verify tone/voice matches `_client-context/brand-voice.md`
+4. Log the session to `_memory-logs/`
+5. Report: what's done, what still needs work
 
-Thay đổi quy trình này theo nhu cầu thực tế của project.
+Adjust this workflow to fit the actual needs of your project.

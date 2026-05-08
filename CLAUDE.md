@@ -1,38 +1,38 @@
 # [PROJECT_NAME] - AI Agentic Workspace
 
 > Template by NateCue - natecue.com/learn/ai/cau-truc-thu-muc-ai-agentic-workspace
-> Đổi tên folder thành tên project của bạn, điền hết các [PLACEHOLDER] là dùng được.
+> Rename the folder to your project name, fill in all [PLACEHOLDER] fields, and you're ready.
 
-## Dự án này là gì
+## What is this project
 
-[MÔ TẢ NGẮN - 1-2 câu về project/client này]
+[SHORT DESCRIPTION - 1-2 sentences about this project/client]
 
-## Quy tắc bắt buộc
+## Hard rules
 
-- Ngôn ngữ mặc định: [Tiếng Việt / English]
-- Tone: [chuyên nghiệp / thân thiện / kỹ thuật]
-- Không được: [những thứ AI tuyệt đối không làm]
+- Default language: [English / Vietnamese / other]
+- Tone: [professional / friendly / technical]
+- Never do: [things AI must absolutely not do]
 
 ## Context
 
-- Target audience: [ai là người nhận output này]
-- Đọc `_client-context/` trước khi bắt đầu bất kỳ task nào
-- Log mỗi session vào `_memory-logs/YYMM-log.md`
-- Output cuối lưu vào `Output/` đặt tên theo ngày `YYMMDD-ten-output.md`
+- Target audience: [who receives the output]
+- Read `_client-context/` before starting any task
+- Log every session to `_memory-logs/YYMM-log.md`
+- Save final output to `Output/` named by date `YYMMDD-output-name.md`
 
 ## Path config
 
-| Folder | Mục đích |
-|--------|----------|
-| `_client-context/` | Bối cảnh project - audience, brand, product |
-| `_sop/` | Quy trình chuẩn - làm gì, theo thứ tự nào |
-| `_memory-logs/` | Nhật ký session - AI đọc khi bắt đầu |
-| `Output/` | Kết quả bàn giao cuối cùng |
-| `.claude/` | Cấu hình AI - hooks, skills, agents |
+| Folder | Purpose |
+|--------|---------|
+| `_client-context/` | Project context - audience, brand, product |
+| `_sop/` | Standard procedures - what to do, in what order |
+| `_memory-logs/` | Session logs - AI reads on startup |
+| `Output/` | Final deliverables |
+| `.claude/` | AI config - hooks, skills, agents |
 
-## Bắt đầu session mới
+## Starting a new session
 
-1. Đọc `_memory-logs/` để nắm tiến độ
-2. Đọc `_client-context/` để nhớ bối cảnh
-3. Hỏi user cần làm gì hôm nay
-4. Khi xong, log vào `_memory-logs/YYMM-log.md`
+1. Read `_memory-logs/` to catch up on progress
+2. Read `_client-context/` to load project context
+3. Ask the user what they need done today
+4. When done, log to `_memory-logs/YYMM-log.md`

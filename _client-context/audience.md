@@ -1,38 +1,38 @@
 # Audience Profile - [PROJECT_NAME]
 
-> Điền thông tin audience của project/client vào đây.
-> AI đọc file này để viết đúng tone và đúng người.
+> Fill in the audience information for this project/client.
+> AI reads this file to write with the right tone and for the right person.
 
-## Primary Audience: [TÊN NHÓM]
+## Primary Audience: [GROUP NAME]
 
-**Họ là ai:**
-[Mô tả: nghề nghiệp, level, thu nhập, địa lý, đặc điểm nổi bật]
+**Who they are:**
+[Describe: job title, level, income, location, notable traits]
 
-**Họ muốn:**
+**What they want:**
 - [Want 1]
 - [Want 2]
 - [Want 3]
 
 **Pain points:**
-- "[Pain 1 - dùng ngôn ngữ của họ]"
+- "[Pain 1 - use their own language]"
 - "[Pain 2]"
 - "[Pain 3]"
 
-**Họ ở đâu:**
+**Where they hang out:**
 - Primary: [platform]
 - Secondary: [platform]
 
-**Cách nói chuyện với họ:**
-[Tone, năng lượng, cái gì resonates, cái gì khiến họ tắt máy]
+**How to talk to them:**
+[Tone, energy, what resonates, what makes them scroll away]
 
 ---
 
-## Secondary Audience: [TÊN NHÓM]
+## Secondary Audience: [GROUP NAME]
 
-**Họ là ai:**
-[Mô tả]
+**Who they are:**
+[Description]
 
-**Họ muốn:**
+**What they want:**
 - [Want 1]
 - [Want 2]
 

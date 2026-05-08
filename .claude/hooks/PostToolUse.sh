@@ -1,6 +1,6 @@
 #!/bin/bash
-# Chạy sau mỗi lần AI dùng tool
-# Thêm logic tùy chỉnh ở đây nếu cần
-# Ví dụ: auto git commit sau khi edit file
+# Runs after every tool use by AI
+# Add custom logic here if needed
+# Example: auto git commit after file edits
 
 # echo "Tool used: $TOOL_NAME"

@@ -1,21 +1,21 @@
 # Memory Logs
 
-Nhật ký phiên làm việc. AI đọc folder này khi bắt đầu session mới.
+Session history. AI reads this folder at the start of every new session.
 
-## Quy tắc đặt tên file
+## File naming
 
-Một file per tháng: `YYMM-log.md`
+One file per month: `YYMM-log.md`
 
-Ví dụ: `2605-log.md` cho tháng 5/2026.
+Example: `2605-log.md` for May 2026.
 
-## Format mỗi entry
+## Entry format
 
 ```markdown
-### [YYYY-MM-DD HH:MM] - [Tên task ngắn gọn]
-- **Đã làm:** ...
-- **Quyết định quan trọng:** ...
-- **Vấn đề đang mở:** ...
-- **Context cần nhớ:** ...
+### [YYYY-MM-DD HH:MM] - [Short task name]
+- **Done:** ...
+- **Key decisions:** ...
+- **Open items:** ...
+- **Context to remember:** ...
 ```
 
-Xem chi tiết tại `_sop/session-log.md`.
+See full details in `_sop/session-log.md`.

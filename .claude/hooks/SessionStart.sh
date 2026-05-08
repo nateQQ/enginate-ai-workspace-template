@@ -1,6 +1,6 @@
 #!/bin/bash
-# Chạy tự động khi mở session mới
-# Nhắc AI đọc context trước khi làm việc
+# Runs automatically when a new session starts
+# Prompts AI to load context before starting work
 
 echo "=== Session Start ==="
 echo "Project: $(basename $(pwd))"

@@ -1,10 +1,10 @@
-# Rules cho src/api/**
+# Rules for src/api/**
 
-Áp dụng tự động khi làm việc với file trong thư mục `src/api/`.
+Applied automatically when working with files in the `src/api/` directory.
 
-- Validate input ở mọi endpoint
-- Không log sensitive data (token, password, PII)
+- Validate input at every endpoint
+- Never log sensitive data (tokens, passwords, PII)
 - Return consistent error format: `{ error: string, code: string }`
-- Rate limit considerations cho public endpoints
+- Consider rate limiting for public endpoints
 
-[Chỉnh sửa theo codebase thực tế của bạn]
+[Edit to match your actual codebase]
