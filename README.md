@@ -2,7 +2,9 @@
 
 A structured folder template for AI Agentic Workspaces - built to work with Claude Code.
 
-Author: [NateCue](https://natecue.com) | Full guide: [natecue.com/learn/ai/cau-truc-thu-muc-ai-agentic-workspace](https://natecue.com/learn/ai/cau-truc-thu-muc-ai-agentic-workspace)
+Author: [NateCue](https://natecue.com)
+
+Full guide: [EN - natecue.com/en/learn/ai/ai-agentic-workspace-folder-structure](https://natecue.com/en/learn/ai/ai-agentic-workspace-folder-structure) | [VI - natecue.com/learn/ai/cau-truc-thu-muc-ai-agentic-workspace](https://natecue.com/learn/ai/cau-truc-thu-muc-ai-agentic-workspace)
 
 ## What is this?
 
@@ -12,11 +14,20 @@ Drop in your client context, brand voice, and SOPs. Claude reads them automatica
 
 ## How to use
 
-1. Clone or download this repo
-2. Rename the folder to your project name
-3. Fill in `CLAUDE.md` and `_client-context/`
-4. Open the folder with Claude Code: run `claude` in terminal
-5. Start working
+**Option A - Download ZIP (no git required)**
+1. Click the green **Code** button at the top of this page
+2. Select **Download ZIP**
+3. Unzip and rename the folder to your project name
+
+**Option B - Clone**
+```bash
+git clone https://github.com/nateQQ/enginate-ai-workspace-template.git your-project-name
+```
+
+**Then:**
+1. Fill in `CLAUDE.md` and `_client-context/`
+2. Open the folder with Claude Code: run `claude` in terminal
+3. Start working
 
 ## Structure
 
